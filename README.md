@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou a Sarah!
 
 Sou profissional com formação em Psicologia, MBA em Gestão de Pessoas e Projetos e experiência em negócio, relacionamento e tomada de decisão.  
-Atualmente, estou em formação em **Análise e Desenvolvimento de Sistemas (FIAP)**, com foco em **Full Stack, Apps e Artificial Intelligence**, construindo uma transição consistente para **Product Owner / Product Manager**.
+Atualmente, estou em formação em **Análise e Desenvolvimento de Sistemas (FIAP)**, com foco em **Full Stack, Apps e Artificial Intelligence**.
 
 ## 🧠 Minha visão
 Acredito em produtos digitais construídos a partir de pessoas, dados e contexto de negócio.  
