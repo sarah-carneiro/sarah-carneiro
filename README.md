@@ -23,7 +23,6 @@ Este GitHub funciona como meu **portfólio de aprendizado e construção prátic
 
 ## 🚀 Próximos passos
 - Desenvolver projetos Full Stack com foco em problema real  
-- Criar estudos de caso de Produto (PO/PM)  
 - Explorar aplicações de AI no apoio à decisão e experiência do usuário  
 
 ## 🤝 Vamos conversar?
